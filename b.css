@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(20, 18, 37);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:linear-gradient(to top, rgb(23, 20, 41), rgb(53, 32, 80));
+    justify-items: center;
+   
+}
+
+header{
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    width: 630px;
+    height: 300px;
+    background-color: rgb(10, 0, 34);
+}
+
+.texto > h1{
+    margin-left: 90px;
+}
+
+.texto > p{
+    margin-left: 50px;
+}
+
+
+
+img{
+   border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 90px;
+}
+
+footer{
+    background-color:rgb(10, 0, 34) ;
+    color: white;
+    
+
+}
+
